@@ -171,10 +171,6 @@ footer strong {
   .recipe-prepare {
     padding: 1.75rem;
   }
-
-  .recipe-prepare ul {
-    text-indent: 1.5rem;
-  }
 }
 
 @media screen and (min-width: 1280px) {
